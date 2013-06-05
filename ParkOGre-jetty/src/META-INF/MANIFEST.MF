@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Class-Path: javax.annotation-1.1.0.v201108011116.jar org.objectweb.asm
+ -3.1.0.v200803061910.jar javax.activation-1.1.0.v201105071233.jar jav
+ ax.transaction-1.1.1.v201105210645.jar javax.mail.glassfish-1.4.1.v20
+ 1005082020.jar javax.el-2.2.0.v201303151357.jar com.sun.el-2.2.0.v201
+ 303151357.jar org.eclipse.jdt.core-3.8.2.v20130121.jar javax.servlet.
+ jsp-2.2.0.v201112011158.jar javax.servlet.jsp.jstl-1.2.0.v20110521182
+ 1.jar org.apache.jasper.glassfish-2.2.2.v201112011158.jar org.apache.
+ taglibs.standard.glassfish-1.2.0.v201112081803.jar jetty-monitor-9.0.
+ 2.v20130417.jar jetty-setuid-java-1.0.1.jar spdy-core-9.0.2.v20130417
+ .jar spdy-client-9.0.2.v20130417.jar spdy-server-9.0.2.v20130417.jar 
+ spdy-http-server-9.0.2.v20130417.jar websocket-api-9.0.2.v20130417.ja
+ r websocket-common-9.0.2.v20130417.jar websocket-server-9.0.2.v201304
+ 17.jar websocket-servlet-9.0.2.v20130417.jar npn-boot-1.1.1.v20121030
+ .jar jetty-annotations-9.0.2.v20130417.jar jetty-client-9.0.2.v201304
+ 17.jar jetty-continuation-9.0.2.v20130417.jar jetty-deploy-9.0.2.v201
+ 30417.jar jetty-http-9.0.2.v20130417.jar jetty-io-9.0.2.v20130417.jar
+  jetty-jaas-9.0.2.v20130417.jar jetty-jmx-9.0.2.v20130417.jar jetty-j
+ ndi-9.0.2.v20130417.jar jetty-plus-9.0.2.v20130417.jar jetty-proxy-9.
+ 0.2.v20130417.jar jetty-rewrite-9.0.2.v20130417.jar jetty-security-9.
+ 0.2.v20130417.jar jetty-server-9.0.2.v20130417.jar jetty-servlet-9.0.
+ 2.v20130417.jar jetty-servlets-9.0.2.v20130417.jar jetty-util-9.0.2.v
+ 20130417.jar jetty-webapp-9.0.2.v20130417.jar jetty-xml-9.0.2.v201304
+ 17.jar servlet-api-3.0.jar
+Main-Class: example.Main
+
